@@ -87,8 +87,6 @@ header .atl-images {
 
 header .rotate{
   transform: rotate(180deg);
-  position: relative;
-  z-index: 1;
 
 }
 
